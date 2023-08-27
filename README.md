@@ -1,5 +1,5 @@
 ### Hi there Im Nico 👋
-# Passionate about technology and fostering social connections, I'm someone who's always eager to learn and grow. Currently focused on web development projects, I'm committed to honing my skills and exploring new opportunities in the digital realm.
+## Passionate about technology and fostering social connections, I'm someone who's always eager to learn and grow. Currently focused on web development projects, I'm committed to honing my skills and exploring new opportunities in the digital realm.
 
 
 <!--
