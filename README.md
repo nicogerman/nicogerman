@@ -18,7 +18,7 @@
 
 - I love crafting websites and web applications.
 - I enjoy the camaraderie and strategy of team sports.
-- Flying my drone is a favorite pastime capturing moments.
+- Flying my drone is my favorite pastime capturing moments.
 
 
 <br><br>
