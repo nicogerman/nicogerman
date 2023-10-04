@@ -41,27 +41,3 @@
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
-```bash
-# Clonar el repositorio
-git clone [URL_DEL_REPOSITORIO]
-
-# Ver los cambios hechos pero no prontos para commitear
-git status
-
-# Pasar los cambios a staging
-git add [NOMBRE_DEL_ARCHIVO_O_CARPETA]
-
-# Realizar el commit de los cambios que se encuentran en staging
-git commit -m "MENSAJE_DEL_COMMIT"
-
-# Subir los cambios al repositorio
-git push
-
-# Actualizar el repositorio local
-git pull
-
-# Crear una nueva rama y cambiar a ella
-git checkout -b nombre/rama
-
-# Subir la nueva rama al repositorio y establecerla como la rama por defecto para futuros pushes
-git push -u origin nombre/rama
