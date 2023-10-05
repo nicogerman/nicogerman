@@ -47,3 +47,14 @@
   git clone [URL_DEL_REPOSITORIO]
 
 git status
+
+# Modelo Conceptual - Comedores Escolares
+
+```mermaid
+ERDiagram
+    Comedor ||--o{ Menú : "ofrece"
+    Menú ||--o{ Plato : "contiene"
+    Responsable ||--o{ Pedido : "realiza"
+    Pedido ||--o{ Plato : "solicita"
+    Niño ||--o{ Consumo : "registra"
+    Consumo ||--o{ Plato : "incluye"
